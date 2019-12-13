@@ -257,9 +257,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.5865282012195122,
-"green":1,
-"red":0.6773139944504334
+"blue":0.0865601006646424,
+"green":0.5106997282608695,
+"red":0.1796882236601209
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
